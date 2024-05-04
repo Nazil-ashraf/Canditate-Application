@@ -1,0 +1,1 @@
+export const APICONSTANT ='https://api.weekday.technology/adhoc/getSampleJdJSON'
