@@ -1,0 +1,54 @@
+.page-container{
+  padding: 20px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 60px;
+
+  &--flex{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    width: 100%;
+
+    .MuiAutocomplete-tag {
+      border-radius: 2px;
+      font-family: 'lexend-Light';
+      text-transform: capitalize;
+     }
+
+     .MuiOutlinedInput-root {
+      padding: 2px !important;
+      font-size: 12px !important;
+  }
+
+  .MuiInputBase-input{
+    padding: 10px !important;
+    font-size: 12px !important;
+  }
+  
+  }
+
+}
+
+.loading{
+  margin-top: 10%;
+}
+
+
+@font-face {
+  font-family: lexend-Thin;
+  src: url('../src/assets/fonts/Lexend-Thin.ttf');
+}
+
+@font-face {
+  font-family: lexend-Regular;
+  src: url('../src/assets/fonts/Lexend-Regular.ttf');
+}
+@font-face {
+  font-family: lexend-Light;
+  src: url('../src/assets/fonts/Lexend-Light.ttf');
+}
