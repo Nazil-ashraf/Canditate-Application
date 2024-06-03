@@ -1,6 +1,6 @@
 # CANDITATE-APPLICATION
 
-## Hello Team , I trust everything is proceeding smoothly. I'm delighted to have the opportunity to develop this project assignment within two days. Thank you for entrusting me with this opportunity.
+
 
 
 This repository contains the source code for CANDITATE-APPLICATION- (ASSIGNMENT).
